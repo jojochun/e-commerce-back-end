@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { where } = require('sequelize/types');
+
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
@@ -59,8 +59,8 @@ router.post('/', (req, res) => {
 
 router.put('/:id', (req, res) => {
   // update a tag's name by its `id` value
-  Tag.update({
-    tag_name: req.body.tag_name,
+  Tag.update(req.body, {
+
     where: {
       id: req.params.id
     }
