@@ -71,8 +71,9 @@ npm start
 
 ## Video Walkthrough
 
-[Video walthrough](https://watch.screencastify.com/v/MJgzEcE3wCGylWK2oQZy)
-[Testing API routes with Insomnia](https://watch.screencastify.com/v/XPSFax7Va8NAQCRvl2Gg)
+[Video Walthrough](https://watch.screencastify.com/v/MJgzEcE3wCGylWK2oQZy)
+
+[Video Testing API routes](https://watch.screencastify.com/v/XPSFax7Va8NAQCRvl2Gg)
 
 ## Built With
 
