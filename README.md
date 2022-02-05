@@ -70,7 +70,7 @@ npm start
 
 ## Video Walkthrough
 
-[Video walkthrough](https://drive.google.com/file/d/1xrZd1Y6GfkT56jrJJaEL1mC7sjgtHcD1/view?usp=sharing)
+[Video walthrough](https://watch.screencastify.com/v/MJgzEcE3wCGylWK2oQZy)
 
 ## Built With
 
