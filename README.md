@@ -2,24 +2,25 @@
 
 ## Purpose
 
-The purpose of this project was to create the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL database. The user can create, read, update and delete data with this application.
+The purpose of this project was to create the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL database. With this application, a user can create, read, update and delete data from their database.
 
 ## Installation and Usage
 
 1. Install node.js
+
 2. Clone or download the source code from GitHub to your local machine:
 
 ```shell
 git@github.com:jojochun/e-commerce-back-end.git
 ```
 
-3. Navigate to the root of the downloaded code:
+3. Navigate to the root of the downloaded code by typing:
 
 ```shell
 cd e-commerce-back-end
 ```
 
-4. To install required dependencies, open terminal and on command line enter:
+4. Install required dependencies by opening a terminal and on command line type:
 
 ```shell
 npm init -y (set "main": "server.js", "start": "node server.js")
@@ -27,7 +28,7 @@ npm install express sequelize mysql2
 npm install dotenv
 ```
 
-5. Create the .env file and open the file:
+5. Create the .env file and open the file by typing:
 
 ```shell
 touch .env
@@ -48,9 +49,9 @@ DB_PW=''
 mysql -u root -p
 ```
 
-8. Enter MySQL password
+8. Enter the password for MySQL
 
-9. Create the database and then exit MySQL by entering:
+9. Create the database, then exit MySQL by typing:
 
 ```shell
 source db/schema.sql
