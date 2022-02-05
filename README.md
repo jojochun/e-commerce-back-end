@@ -66,11 +66,12 @@ npm start
 
 ## Screenshot
 
-![a screenshot of my app](./assets/e-commerce-back-end.png)
+![a screenshot of my app](./assets/e-commerce.png)
 
 ## Video Walkthrough
 
 [Video walthrough](https://watch.screencastify.com/v/MJgzEcE3wCGylWK2oQZy)
+[Testing API routes with Insomnia](https://watch.screencastify.com/v/XPSFax7Va8NAQCRvl2Gg)
 
 ## Built With
 
